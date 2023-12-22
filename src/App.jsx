@@ -1,10 +1,13 @@
 import { useState } from 'react'
+import HeroComponent from './components/herosection'
+import FeatureComponet from './components/features'
 
 function App() {
 
   return (
     <>
-      <h1>Hi there</h1>
+      <HeroComponent/>
+      <FeatureComponet/>
     </>
   )
 }
