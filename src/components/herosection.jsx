@@ -5,8 +5,10 @@ function HeroComponent() {
   return (
     <>
 
-      <h1>
-        Feature      </h1>
+      <h1 className='font-playfair'>
+        Feature      
+        
+      </h1>
     </>
   )
 }
