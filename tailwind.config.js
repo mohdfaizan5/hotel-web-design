@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        lato: ['Lato'],
+        // lato: ['Lato'],
+        lato: ['Poppins'],
         playfair: ['Playfair Display']
       },
 
